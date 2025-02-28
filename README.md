@@ -28,8 +28,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ## Apply Migrations
-python manage.py makemigrations
-python manage.py migrate
+  - python manage.py makemigrations
+  - python manage.py migrate
 
 ## Running the Application
 1. Start the Development Server
