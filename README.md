@@ -20,11 +20,11 @@ Ensure you have the following installed:
 1. Clone the Repository
 git clone https://github.com/yourusername/Job-Management-API.git
 
-  cd JobManagementAPI
-3. Create and Activate a Virtual Environment
+cd Job-Management-API
+2. Create and Activate a Virtual Environment
 python -m venv venv
 
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ## Install Dependencies
 pip install -r requirements.txt
