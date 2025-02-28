@@ -21,6 +21,7 @@ Ensure you have the following installed:
 git clone https://github.com/yourusername/Job-Management-API.git
 
 cd Job-Management-API
+
 2. Create and Activate a Virtual Environment
 python -m venv venv
 
